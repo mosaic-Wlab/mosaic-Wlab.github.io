@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: psnavais
+title: Mosaic Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,8 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@psnavais.com
-  orcid: 0000-0001-8713-9213
+  email: pol.sole.navais@gu.se
+  orcid: 0000-0002-3326-266X
   google-scholar: ETJoidYAAAAJ
   github: psnavais
   twitter: psnavais
