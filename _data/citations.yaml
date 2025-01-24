@@ -1,207 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-024-51947-w
   title: Genome-wide analyses of neonatal jaundice reveal a marked departure from
     adult bilirubin metabolism
@@ -232,9 +30,358 @@
   publisher: Nature Communications
   date: '2024-08-30'
   link: https://doi.org/gvn7rf
-  image: https://www.nature.com/articles/s41467-024-51947-w/figures/1
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-024-01839-y
+  title: Genome-wide association meta-analysis identifies five loci associated with
+    postpartum hemorrhage
+  authors:
+  - David Westergaard
+  - Valgerdur Steinthorsdottir
+  - Lilja Stefansdottir
+  - Palle Duun Rohde
+  - Xiaoping Wu
+  - Frank Geller
+  - Jaakko Tyrmi
+  - Aki S. Havulinna
+  - "Pol Sol\xE9-Navais"
+  - Christopher Flatley
+  - Sisse Rye Ostrowski
+  - Ole Birger Pedersen
+  - Christian Erikstrup
+  - "Erik S\xF8rensen"
+  - Christina Mikkelsen
+  - Mie Topholm Bruun
+  - Bitten Aagaard Jensen
+  - Thorsten Brodersen
+  - Henrik Ullum
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Njolstad"
+  - Astrid Marie Kolte
+  - Lone Krebs
+  - Mette Nyegaard
+  - Thomas Folkmann Hansen
+  - Bjarke Feenstra
+  - Mark Daly
+  - Cecilia M. Lindgren
+  - Gudmar Thorleifsson
+  - Olafur A. Stefansson
+  - Gardar Sveinbjornsson
+  - Daniel F. Gudbjartsson
+  - Unnur Thorsteinsdottir
+  - Karina Banasik
+  - Bo Jacobsson
+  - Triin Laisk
+  - Hannele Laivuori
+  - Kari Stefansson
+  - "S\xF8ren Brunak"
+  - Henriette Svarre Nielsen
+  publisher: Nature Genetics
+  date: '2024-07-22'
+  link: https://doi.org/gt43fv
+  orcid: 0000-0002-3326-266X
   plugin: sources.py
   file: sources.yaml
+  type: paper
+- id: doi:10.1038/s42255-024-01004-z
+  title: 'Author Correction: Characterization of the genetic architecture of infant
+    and early childhood body mass index'
+  authors:
+  - "\xD8yvind Helgeland"
+  - Marc Vaudel
+  - Pol Sole-Navais
+  - Christopher Flatley
+  - Julius Juodakis
+  - Jonas Bacelis
+  - "Ingvild L. Kol\xF8en"
+  - Gun Peggy Knudsen
+  - Bente B. Johansson
+  - Per Magnus
+  - Ted Reichborn Kjennerud
+  - Petur B. Juliusson
+  - Camilla Stoltenberg
+  - Oddgeir L. Holmen
+  - Ole A. Andreassen
+  - Bo Jacobsson
+  - "P\xE5l R. Nj\xF8lstad"
+  - Stefan Johansson
+  publisher: Nature Metabolism
+  date: '2024-02-09'
+  link: https://doi.org/gthgwg
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48321/D1K37X
+  title: 'Beyond chromosomal abnormalities: deciphering the genetic drivers of miscarriage'
+  authors:
+  - Pol Sole-Navais
+  publisher: DMPHub
+  date: '2023-01-01'
+  link: https://doi.org/g82zsq
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-023-01520-w
+  title: Genome-wide association study of placental weight identifies distinct and
+    shared genetic influences between placental and fetal growth
+  authors:
+  - Robin N. Beaumont
+  - Christopher Flatley
+  - Marc Vaudel
+  - Xiaoping Wu
+  - Jing Chen
+  - Gunn-Helen Moen
+  - Line Skotte
+  - "\xD8yvind Helgeland"
+  - "Pol Sol\xE9-Navais"
+  - Karina Banasik
+  - "Clara Albi\xF1ana"
+  - Justiina Ronkainen
+  - "Jo\xE3o Fadista"
+  - Sara Elizabeth Stinson
+  - Katerina Trajanoska
+  - Carol A. Wang
+  - David Westergaard
+  - Sundararajan Srinivasan
+  - "Carlos S\xE1nchez-Soriano"
+  - Jose Ramon Bilbao
+  - Catherine Allard
+  - Marika Groleau
+  - Teemu Kuulasmaa
+  - Daniel J. Leirer
+  - "Fr\xE9d\xE9rique White"
+  - "Pierre-\xC9tienne Jacques"
+  - Haoxiang Cheng
+  - Ke Hao
+  - Ole A. Andreassen
+  - "Bj\xF8rn Olav \xC5svold"
+  - Mustafa Atalay
+  - Laxmi Bhatta
+  - Luigi Bouchard
+  - Ben Michael Brumpton
+  - "S\xF8ren Brunak"
+  - Jonas Bybjerg-Grauholm
+  - Cathrine Ebbing
+  - Paul Elliott
+  - Line Engelbrechtsen
+  - Christian Erikstrup
+  - Marisa Estarlich
+  - Stephen Franks
+  - Romy Gaillard
+  - Frank Geller
+  - Jakob Grove
+  - David M. Hougaard
+  - Eero Kajantie
+  - Camilla S. Morgen
+  - Ellen A. Nohr
+  - Mette Nyegaard
+  - Colin N. A. Palmer
+  - Ole Birger Pedersen
+  - Fernando Rivadeneira
+  - Sylvain Sebert
+  - Beverley M. Shields
+  - Camilla Stoltenberg
+  - Ida Surakka
+  - "Lise Wegner Th\xF8rner"
+  - Henrik Ullum
+  - Marja Vaarasmaki
+  - Bjarni J. Vilhjalmsson
+  - Cristen J. Willer
+  - Timo A. Lakka
+  - Dorte Gybel-Brask
+  - Mariona Bustamante
+  - Torben Hansen
+  - Ewan R. Pearson
+  - Rebecca M. Reynolds
+  - Sisse R. Ostrowski
+  - Craig E. Pennell
+  - Vincent W. V. Jaddoe
+  - Janine F. Felix
+  - Andrew T. Hattersley
+  - Mads Melbye
+  - Deborah A. Lawlor
+  - Kristian Hveem
+  - Thomas Werge
+  - Henriette Svarre Nielsen
+  - Per Magnus
+  - David M. Evans
+  - Bo Jacobsson
+  - "Marjo-Riitta J\xE4rvelin"
+  - Ge Zhang
+  - Marie-France Hivert
+  - Stefan Johansson
+  - Rachel M. Freathy
+  - Bjarke Feenstra
+  - "P\xE5l R. Nj\xF8lstad"
+  publisher: Nature Genetics
+  date: '2023-10-05'
+  link: https://doi.org/gst5vm
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.10.23293932
+  title: 'Pregnancy-Associated Bleeding and Genetics: Five Sequence Variants in the
+    Myometrium and Progesterone Signaling Pathway are associated with postpartum hemorrhage'
+  authors:
+  - David Westergaard
+  - Valgerdur Steinthorsdottir
+  - Lilja Stefansdottir
+  - Palle Duun Rohde
+  - Xiaoping Wu
+  - Frank Geller
+  - Jaakko Tyrmi
+  - Aki S. Havulinna
+  - Pol Sole Navais
+  - Christopher Flatley
+  - Sisse Rye Ostrowski
+  - Ole Birger Pedersen
+  - Christian Erikstrup
+  - "Erik S\xF8rensen"
+  - Christina Mikkelsen
+  - Mie Topholm Brun
+  - Bitten Aagaard Jensen
+  - Thorsten Brodersen
+  - Henrik Ullum
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Njolstad"
+  - Astrid Marie Kolte
+  - Lone Krebs
+  - Mette Nyegaard
+  - Thomas Folkmann Hansen
+  - Bjarke Fenstra
+  - Mark Daly
+  - Cecilia M. Lindgren
+  - Gudmar Thorleifsson
+  - Olafur A. Stefansson
+  - Gardar Sveinbjornsson
+  - Daniel F. Gudbjartsson
+  - Unnur Thorsteinsdottir
+  - Karina Banasik
+  - Bo Jacobsson
+  - Triin Laisk
+  - Hannele Laivuori
+  - Kari Stefansson
+  - "S\xF8ren Brunak"
+  - Henriette Svarre Nielsen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-15'
+  link: https://doi.org/g82zsr
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/ddad086
+  title: Time-varying effects are common in genetic control of gestational duration
+  authors:
+  - Julius Juodakis
+  - Karin Ytterberg
+  - Christopher Flatley
+  - Pol Sole-Navais
+  - Bo Jacobsson
+  publisher: Human Molecular Genetics
+  date: '2023-05-17'
+  link: https://doi.org/gr85tt
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-023-01412-z
+  title: 'Author Correction: Genetic effects on the timing of parturition and links
+    to fetal birth weight'
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - Christopher Flatley
+  - Valgerdur Steinthorsdottir
+  - Marc Vaudel
+  - Julius Juodakis
+  - Jing Chen
+  - Triin Laisk
+  - Abigail L. LaBella
+  - David Westergaard
+  - Jonas Bacelis
+  - Ben Brumpton
+  - Line Skotte
+  - Maria C. Borges
+  - "\xD8yvind Helgeland"
+  - Anubha Mahajan
+  - Matthias Wielscher
+  - Frederick Lin
+  - Catherine Briggs
+  - Carol A. Wang
+  - Gunn-Helen Moen
+  - Robin N. Beaumont
+  - Jonathan P. Bradfield
+  - Abin Abraham
+  - Gudmar Thorleifsson
+  - Maiken E. Gabrielsen
+  - Sisse R. Ostrowski
+  - Dominika Modzelewska
+  - Ellen A. Nohr
+  - Elina Hypponen
+  - Amit Srivastava
+  - Octavious Talbot
+  - Catherine Allard
+  - Scott M. Williams
+  - Ramkumar Menon
+  - Beverley M. Shields
+  - Gardar Sveinbjornsson
+  - Huan Xu
+  - Mads Melbye
+  - William Lowe
+  - Luigi Bouchard
+  - Emily Oken
+  - Ole B. Pedersen
+  - Daniel F. Gudbjartsson
+  - Christian Erikstrup
+  - "Erik S\xF8rensen"
+  - Mark I. McCarthy
+  - Rolv T. Lie
+  - Kari Teramo
+  - Mikko Hallman
+  - Thorhildur Juliusdottir
+  - Hakon Hakonarson
+  - Henrik Ullum
+  - Andrew T. Hattersley
+  - Line Sletner
+  - Mario Merialdi
+  - Sheryl L. Rifas-Shiman
+  - Thora Steingrimsdottir
+  - Denise Scholtens
+  - Christine Power
+  - Jane West
+  - Mette Nyegaard
+  - John A. Capra
+  - Anne H. Skogholt
+  - Per Magnus
+  - Ole A. Andreassen
+  - Unnur Thorsteinsdottir
+  - Struan F. A. Grant
+  - Elisabeth Qvigstad
+  - Craig E. Pennell
+  - Marie-France Hivert
+  - Geoffrey M. Hayes
+  - Marjo-Riitta Jarvelin
+  - Mark I. McCarthy
+  - Deborah A. Lawlor
+  - Henriette S. Nielsen
+  - "Reedik M\xE4gi"
+  - Antonis Rokas
+  - Kristian Hveem
+  - Kari Stefansson
+  - Bjarke Feenstra
+  - "P\xE5l Njolstad"
+  - Louis J. Muglia
+  - Rachel M. Freathy
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Nature Genetics
+  date: '2023-05-10'
+  link: https://doi.org/g82zss
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41588-023-01343-9
   title: Genetic effects on the timing of parturition and links to fetal birth weight
   authors:
@@ -327,9 +474,592 @@
   publisher: Nature Genetics
   date: '2023-04-01'
   link: https://doi.org/j426
-  image: https://www.nature.com/articles/s41588-023-01343-9/figures/4
+  orcid: 0000-0002-3326-266X
   plugin: sources.py
   file: sources.yaml
+  type: paper
+- id: doi:10.1101/2023.02.16.23286023
+  title: Exploring the impact of parity and its interaction with history of preterm
+    delivery on gestational duration
+  authors:
+  - Karin Ytterberg
+  - Bo Jacobsson
+  - Christopher Flatley
+  - Julius Juodakis
+  - Staffan Nilsson
+  - Pol Sole-Navais
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-23'
+  link: https://doi.org/g82zst
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.02.07.23285609
+  title: Time-varying effects are common in genetic control of gestational duration
+  authors:
+  - Julius Juodakis
+  - Karin Ytterberg
+  - Christopher Flatley
+  - Pol Sole-Navais
+  - Bo Jacobsson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-02-10'
+  link: https://doi.org/g82zsv
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41588-023-01344-8
+  title: New genetic loci associated with gestational duration show a complex link
+    with birth weight
+  authors: []
+  publisher: Nature Genetics
+  date: '2023-04-01'
+  link: https://doi.org/g82zsw
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.14.22283348
+  title: Genome-wide analyses of neonatal jaundice reveal a marked departure from
+    adult bilirubin metabolism
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - Julius Juodakis
+  - Karin Ytterberg
+  - Xiaoping Wu
+  - Marc Vaudel
+  - "\xD8yvind Helgeland"
+  - Christopher Flatley
+  - Frank Geller
+  - Moshe Finel
+  - Mengqi Zhao
+  - Philip Lazarus
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Njolstad"
+  - Bjarke Feenstra
+  - Louis J. Muglia
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-14'
+  link: https://doi.org/g82zsx
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR556367
+  title: Europe PMC
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://europepmc.org/article/ppr/PPR556367
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR489529
+  title: Europe PMC
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://europepmc.org/article/ppr/PPR489529
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR496999
+  title: Interrogating the causal effects of maternal circulating CRP on gestational
+    duration and birth weigh
+  authors:
+  - Jing Chen
+  - Pol Sole Navais
+  - Huan Xu
+  - Christopher Flatley
+  - Jonas Bacelis
+  - Nagendra Monangi
+  - Marian Kacerovsky
+  - Mikko Hallman
+  - Kari Teramo
+  - Deborah Lawlor
+  - Jeffrey Murray
+  - Bo Jacobsson
+  - Louis Muglia
+  - Ge Zhang
+  publisher: ''
+  date: '2022-01-01'
+  link: https://europepmc.org/article/PPR/PPR496999
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35641553
+  title: Pregnancy homocysteine and cobalamin status predict childhood metabolic health
+    in the offspring.
+  authors:
+  - "Alejandra Rojas-G\xF3mez"
+  - "Pol Sol\xE9-Navais"
+  - "Pere Cavall\xE9-Busquets"
+  - Gemma Ornosa-Martin
+  - Carme Grifoll
+  - Carla Ramos-Rodriguez
+  - Joan Fernandez-Ballart
+  - Luis Masana
+  - "M\xF3nica Ballesteros"
+  - Per Magne Ueland
+  - Michelle M Murphy
+  publisher: Pediatric research
+  date: '2022-05-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35641553
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35315439
+  title: Characterization of the genetic architecture of infant and early childhood
+    body mass index.
+  authors:
+  - "\xD8yvind Helgeland"
+  - Marc Vaudel
+  - Pol Sole-Navais
+  - Christopher Flatley
+  - Julius Juodakis
+  - Jonas Bacelis
+  - "Ingvild L Kol\xF8en"
+  - Gun Peggy Knudsen
+  - Bente B Johansson
+  - Per Magnus
+  - Ted Reichborn Kjennerud
+  - Petur B Juliusson
+  - Camilla Stoltenberg
+  - Oddgeir L Holmen
+  - Ole A Andreassen
+  - Bo Jacobsson
+  - "P\xE5l R Nj\xF8lstad"
+  - Stefan Johansson
+  publisher: Nature metabolism
+  date: '2022-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35315439
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.placenta.2021.10.011
+  title: Placental weight centiles adjusted for age, parity and fetal sex
+  authors:
+  - Christopher Flatley
+  - Pol Sole-Navais
+  - Marc Vaudel
+  - "\xD8yvind Helgeland"
+  - Dominika Modzelewska
+  - Stefan Johansson
+  - Bo Jacobsson
+  - "P\xE5l Nj\xF8lstad"
+  publisher: Placenta
+  date: '2022-01-01'
+  link: https://doi.org/gng7c3
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10826-021-01978-4
+  title: A Prospective Study of Maternal Exposure to Smoking during Pregnancy and
+    Behavioral Development in the Child
+  authors:
+  - "Joana Roig\xE9-Castellv\xED"
+  - Michelle M. Murphy
+  - "N\xFAria Voltas"
+  - "Pol Sol\xE9-Navais"
+  - "Pere Cavall\xE9-Busquets"
+  - "Joan Fern\xE1ndez-Ballart"
+  - "M\xF3nica Ballesteros"
+  - Josefa Canals-Sans
+  publisher: Journal of Child and Family Studies
+  date: '2021-05-28'
+  link: https://doi.org/gj8t4v
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hmg/ddaa255
+  title: Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring
+    trios
+  authors:
+  - Pol Sole-Navais
+  - Jonas Bacelis
+  - "\xD8yvind Helgeland"
+  - Dominika Modzelewska
+  - Marc Vaudel
+  - Christopher Flatley
+  - Ole Andreassen
+  - "P\xE5l R Nj\xF8lstad"
+  - Louis J Muglia
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Human Molecular Genetics
+  date: '2020-12-01'
+  link: https://doi.org/gjq8wm
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.04.21256508
+  title: Characterization of the genetic architecture of BMI in infancy and early
+    childhood reveals age-specific effects and implicates pathways involved in Mendelian
+    obesity
+  authors:
+  - "\xD8yvind Helgeland"
+  - Marc Vaudel
+  - Pol Sole-Navais
+  - Christopher Flatley
+  - Julius Juodakis
+  - Jonas Bacelis
+  - "Ingvild L. Kol\xF8en"
+  - Gun Peggy Knudsen
+  - Bente B. Johansson
+  - Per Magnus
+  - Ted Reichborn Kjennerud
+  - Petur B. Juliusson
+  - Camilla Stoltenberg
+  - Oddgeir L. Holmen
+  - Ole A. Andreassen
+  - Bo Jacobsson
+  - "P\xE5l R. Nj\xF8lstad"
+  - Stefan Johansson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-07'
+  link: https://doi.org/g82zsz
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00394-020-02280-7
+  title: "Maternal caffeine intake during pregnancy and child neurodevelopment up\
+    \ to eight years of age\u2014Results from the Norwegian Mother, Father and Child\
+    \ Cohort Study"
+  authors:
+  - Sofia Berglundh
+  - Margarete Vollrath
+  - "Anne Lise Brants\xE6ter"
+  - Ragnhild Brandlistuen
+  - "Pol Sol\xE9-Navais"
+  - Bo Jacobsson
+  - Verena Sengpiel
+  publisher: European Journal of Nutrition
+  date: '2020-05-26'
+  link: https://doi.org/gjq6q9
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu13041239
+  title: Maternal Dietary Selenium Intake during Pregnancy and Neonatal Outcomes in
+    the Norwegian Mother, Father, and Child Cohort Study
+  authors:
+  - Dominika Modzelewska
+  - "Pol Sol\xE9-Navais"
+  - "Anne Lise Brants\xE6ter"
+  - Christopher Flatley
+  - Anders Elfvin
+  - Helle Margrete Meltzer
+  - Verena Sengpiel
+  - Malin Barman
+  - Bo Jacobsson
+  publisher: Nutrients
+  date: '2021-04-09'
+  link: https://doi.org/gjvqx2
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu13010023
+  title: Maternal Dietary Selenium Intake during Pregnancy Is Associated with Higher
+    Birth Weight and Lower Risk of Small for Gestational Age Births in the Norwegian
+    Mother, Father and Child Cohort Study
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - "Anne Lise Brants\xE6ter"
+  - Ida Henriette Caspersen
+  - Thomas Lundh
+  - Louis J. Muglia
+  - Helle Margrete Meltzer
+  - Ge Zhang
+  - Bo Jacobsson
+  - Verena Sengpiel
+  - Malin Barman
+  publisher: Nutrients
+  date: '2020-12-23'
+  link: https://doi.org/gh9trj
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu13093101
+  title: The Orexigenic Force of Olfactory Palatable Food Cues in Rats
+  authors:
+  - Fiona Peris-Sampedro
+  - Iris Stoltenborg
+  - Marie V. Le May
+  - Pol Sole-Navais
+  - Roger A. H. Adan
+  - Suzanne L. Dickson
+  publisher: Nutrients
+  date: '2021-09-03'
+  link: https://doi.org/gm524k
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.07.06.451251
+  title: The orexigenic force of olfactory palatable food cues in sated rats
+  authors:
+  - Fiona Peris-Sampedro
+  - Iris Stoltenborg
+  - Marie V. Le May
+  - "Pol Sol\xE9-Navais"
+  - Roger A. H. Adan
+  - Suzanne L. Dickson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-07-07'
+  link: https://doi.org/g82zs2
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.06.25.20140103
+  title: Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring
+    trios
+  authors:
+  - Pol Sole-Navais
+  - Jonas Bacelis
+  - "\xD8yvind Helgeland"
+  - Dominika Modzelewska
+  - Marc Vaudel
+  - Christopher Flatley
+  - Ole Andreassen
+  - "P\xE5l R. Nj\xF8lstad"
+  - Louis J. Muglia
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-06-26'
+  link: https://doi.org/g82zs3
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0241911
+  title: Changes in data management contribute to temporal variation in gestational
+    duration distribution in the Swedish Medical Birth Registry
+  authors:
+  - Dominika Modzelewska
+  - Pol Sole-Navais
+  - Anna Sandstrom
+  - Ge Zhang
+  - Louis J. Muglia
+  - Christopher Flatley
+  - Staffan Nilsson
+  - Bo Jacobsson
+  publisher: PLOS ONE
+  date: '2020-11-06'
+  link: https://doi.org/gh9hs8
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PMED.1003305
+  title: "Dissecting maternal and fetal genetic effects underlying the associations\
+    \ between maternal phenotypes, birth outcomes, and adult phenotypes: A mendelian-randomization\
+    \ and haplotype-based genetic score analysis in 10,734 mother\u2013infant pairs"
+  authors:
+  - Jing Chen
+  - Jonas Bacelis
+  - Pol Sole-Navais
+  - Amit Srivastava
+  - Julius Juodakis
+  - Amy Rouse
+  - Mikko Hallman
+  - Kari Teramo
+  - Mads Melbye
+  - Bjarke Feenstra
+  - Rachel M. Freathy
+  - George Davey Smith
+  - Deborah A. Lawlor
+  - Jeffrey C. Murray
+  - Scott M. Williams
+  - Bo Jacobsson
+  - Louis J. Muglia
+  - Ge Zhang
+  publisher: PLOS Medicine
+  date: '2020-08-25'
+  link: https://doi.org/gjq7kf
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.12.079863
+  title: Haplotype-based analysis distinguishes maternal-fetal genetic contribution
+    to pregnancy-related outcomes
+  authors:
+  - Amit K. Srivastava
+  - Julius Juodakis
+  - Pol Sole-Navais
+  - Jing Chen
+  - Jonas Bacelis
+  - Kari Teramo
+  - Mikko Hallman
+  - "Pal R. Nj\xF8lstad"
+  - David M. Evans
+  - Bo Jacobsson
+  - Louis J. Muglia
+  - Ge Zhang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-14'
+  link: https://doi.org/g82zs4
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0236494
+  title: "Importance of the environment for gestational duration variability and correlation\
+    \ between relatives \u2013 results from the Medical Swedish Birth Registry, 1973-2012"
+  authors:
+  - Dominika Modzelewska
+  - Pol Sole-Navais
+  - Ge Zhang
+  - Louis J. Muglia
+  - Staffan Nilsson
+  - Bo Jacobsson
+  publisher: PLOS ONE
+  date: '2020-07-24'
+  link: https://doi.org/gh9r2h
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/737106
+  title: Haplotype genetic score analysis in 10,734 mother/infant pairs reveals complex
+    maternal and fetal genetic effects underlying the associations between maternal
+    phenotypes, birth outcomes and adult phenotypes
+  authors:
+  - Jing Chen
+  - Jonas Bacelis
+  - Pol Sole Navais
+  - Amit Srivastava
+  - Julius Juodakis
+  - Amy Rouse
+  - Mikko Hallman
+  - Kari Teramo
+  - Mads Melbye
+  - Bjarke Feenstra
+  - Rachel M. Freathy
+  - George Davey-Smith
+  - Deborah A. Lawlor
+  - Jeffrey C. Murray
+  - Scott M. Williams
+  - Bo Jacobsson
+  - Louis J. Muglia
+  - Ge Zhang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-15'
+  link: https://doi.org/gkwgj4
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30777448
+  title: 'The effect of prenatal smoke exposure on child neuropsychological function:
+    a prospective mother-child cohort study.'
+  authors:
+  - "Joana Roig\xE9-Castellv\xED"
+  - Michelle Murphy
+  - "Carmen Hern\xE1ndez-Mart\xEDnez"
+  - "Pol Sol\xE9-Navais"
+  - "Pere Cavall\xE9-Busquets"
+  - "Joan Fern\xE1ndez-Ballart"
+  - "M\xF3nica Ballesteros"
+  - Josefa Canals
+  publisher: Journal of reproductive and infant psychology
+  date: '2019-02-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30777448
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ajcn/nqx041
+  title: Early pregnancy folate-cobalamin interactions and their effects on cobalamin
+    status and hematologic variables throughout pregnancy
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - Judith Salat-Batlle
+  - "Pere Cavall\xE9-Busquets"
+  - Joan Fernandez-Ballart
+  - Per M Ueland
+  - "M\xF3nica Ballesteros"
+  - "Gemma Ornosa-Mart\xEDn"
+  - "Montserrat Ingl\xE8s-Puig"
+  - Jose M Colomina
+  - Michelle M Murphy
+  publisher: The American Journal of Clinical Nutrition
+  date: '2018-02-01'
+  link: https://doi.org/gc5wcj
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3945/an.117.015628
+  title: 'Cobalamin Status from Pregnancy to Early Childhood: Lessons from Global
+    Experience'
+  authors:
+  - Rima Obeid
+  - Michelle Murphy
+  - "Pol Sol\xE9-Navais"
+  - Chittaranjan Yajnik
+  publisher: Advances in Nutrition
+  date: '2017-11-01'
+  link: https://doi.org/gdx229
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: 'isbn:9781498706995 '
+  title: 'Vitamin B12: advances and insights'
+  authors: []
+  publisher: CRC Press/Taylor & Francis Group
+  date: '2017-01-01'
+  link: ''
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1201/9781315119540
+  title: Vitamin B12
+  authors: []
+  publisher: CRC Press
+  date: '2017-07-12'
+  link: https://doi.org/g82zs5
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biochi.2015.12.003
+  title: Early pregnancy B vitamin status, one carbon metabolism, pregnancy outcome
+    and child development
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - "Pere Cavall\xE9-Busquets"
+  - Joan D. Fernandez-Ballart
+  - Michelle M. Murphy
+  publisher: Biochimie
+  date: '2016-07-01'
+  link: https://doi.org/f8tkdr
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu8100621
+  title: Maternal Folate Status and the BHMT c.716G&gt;A Polymorphism Affect the Betaine
+    Dimethylglycine Pathway during Pregnancy
+  authors:
+  - Jose Colomina
+  - "Pere Cavall\xE9-Busquets"
+  - "S\xEDlvia Fern\xE0ndez-Roig"
+  - "Pol Sol\xE9-Navais"
+  - Joan Fernandez-Ballart
+  - "M\xF3nica Ballesteros"
+  - Per Ueland
+  - Klaus Meyer
+  - Michelle Murphy
+  publisher: Nutrients
+  date: '2016-10-09'
+  link: https://doi.org/g82zs6
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000330125300097
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000330125300097
+  orcid: 0000-0002-3326-266X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.annepidem.2023.09.004
   title: Exploring the association of parity and its interaction with history of preterm
     delivery on gestational duration
@@ -343,57 +1073,7 @@
   publisher: Annals of Epidemiology
   date: '2023-11-01'
   link: https://doi.org/gsrsk7
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1047279723001709-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41588-024-01839-y
-  title: Genome-wide association meta-analysis identifies five loci associated with
-    postpartum hemorrhage
-  authors:
-  - David Westergaard
-  - Valgerdur Steinthorsdottir
-  - Lilja Stefansdottir
-  - Palle Duun Rohde
-  - Xiaoping Wu
-  - Frank Geller
-  - Jaakko Tyrmi
-  - Aki S. Havulinna
-  - "Pol Sol\xE9-Navais"
-  - Christopher Flatley
-  - Sisse Rye Ostrowski
-  - Ole Birger Pedersen
-  - Christian Erikstrup
-  - "Erik S\xF8rensen"
-  - Christina Mikkelsen
-  - Mie Topholm Bruun
-  - Bitten Aagaard Jensen
-  - Thorsten Brodersen
-  - Henrik Ullum
-  - Per Magnus
-  - Ole A. Andreassen
-  - "P\xE5l R. Njolstad"
-  - Astrid Marie Kolte
-  - Lone Krebs
-  - Mette Nyegaard
-  - Thomas Folkmann Hansen
-  - Bjarke Feenstra
-  - Mark Daly
-  - Cecilia M. Lindgren
-  - Gudmar Thorleifsson
-  - Olafur A. Stefansson
-  - Gardar Sveinbjornsson
-  - Daniel F. Gudbjartsson
-  - Unnur Thorsteinsdottir
-  - Karina Banasik
-  - Bo Jacobsson
-  - Triin Laisk
-  - Hannele Laivuori
-  - Kari Stefansson
-  - "S\xF8ren Brunak"
-  - Henriette Svarre Nielsen
-  publisher: Nature Genetics
-  date: '2024-07-22'
-  link: https://doi.org/gt43fv
-  image: https://www.nature.com/articles/s41588-024-01839-y/figures/2
   plugin: sources.py
   file: sources.yaml
