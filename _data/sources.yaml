@@ -1,11 +1,15 @@
 - id: doi:10.1038/s41467-024-51947-w
+  type: paper
   image: https://www.nature.com/articles/s41467-024-51947-w/figures/1
   
 - id: doi:10.1038/s41588-023-01343-9
+  type: paper
   image: https://www.nature.com/articles/s41588-023-01343-9/figures/4
 
 - id: doi:10.1016/j.annepidem.2023.09.004
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1047279723001709-gr1.jpg
 
 - id: doi:10.1038/s41588-024-01839-y
+  type: paper
   image: https://www.nature.com/articles/s41588-024-01839-y/figures/2
