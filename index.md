@@ -11,7 +11,7 @@ We are an interdisciplinary team, a scientific mosaic, driven by curiosity to an
 
 {% capture text %}
 
-At Pol's group we try to answer some of the following questions: How does genetic variation affect traits that are crucial for human development and survival? How do the maternal and fetal genomes as well as their interplay, shape these traits? What are the cellular consequences in terms of molecular pathways and mechanisms involved? Why is genetic variation affecting fitness traits passed down through inheritance? Are the genetics of pregnancy loss similar to those of embryo implantation? Adressing these questions will provide us with enhanced knowledge on the mechanisms behind these traits and, potentially, develop improved diagnostic tools and treatments. The research in our laboratory aims at tackling these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
+At Pol's group we try to answer some of the following questions: How does genetic variation affect traits that are crucial for human development and survival? How do the maternal and fetal genomes as well as their interplay, shape these traits? What are the cellular consequences in terms of molecular pathways and mechanisms involved? Why is genetic variation affecting fitness traits passed down through inheritance? Adressing these questions will provide us with enhanced knowledge on the mechanisms behind these traits and, potentially, develop improved diagnostic tools and treatments. We tackle these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
 
 {%
   include button.html
@@ -34,7 +34,7 @@ At Pol's group we try to answer some of the following questions: How does geneti
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our ongoing projects are related to the genetics of pregnancy loss, gestational duration, and other reproductive traits. We have established a robust pipeline for distinguishing fetal from maternal effects, which allows us to integrate our discoveries with regulatory and epigenetic data from relevant tissues and cell types. We are part of several large international genetic consortia, such as the Nordic Collaboration for Women's Health, the Early Growth Genetics Consortium and the EAGLE Consortium. Additionally, we work with rich register data from Sweden to inform our genetic studies by modelling large pedigrees (up to four generations) and detailed phenotypic information from millions of individuals.  
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of biologists, engineers, mathematicians and clinicians, and are constantly on the look-out for motivated and talended post-docs and master students. We strive to  
 
 {%
   include button.html
