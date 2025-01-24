@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,198 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41467-024-51947-w
+  title: Genome-wide analyses of neonatal jaundice reveal a marked departure from
+    adult bilirubin metabolism
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - "Pol Sol\xE9-Navais"
+  - Julius Juodakis
+  - Karin Ytterberg
+  - Xiaoping Wu
+  - Jonathan P. Bradfield
+  - Marc Vaudel
+  - Abigail L. LaBella
+  - "\xD8yvind Helgeland"
+  - Christopher Flatley
+  - Frank Geller
+  - Moshe Finel
+  - Mengqi Zhao
+  - Philip Lazarus
+  - Hakon Hakonarson
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Nj\xF8lstad"
+  - Struan F. A. Grant
+  - Bjarke Feenstra
+  - Louis J. Muglia
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Nature Communications
+  date: '2024-08-30'
+  link: https://doi.org/gvn7rf
+  image: https://www.nature.com/articles/s41467-024-51947-w/figures/1
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1038/s41588-023-01343-9
+  title: Genetic effects on the timing of parturition and links to fetal birth weight
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - "Pol Sol\xE9-Navais"
+  - Christopher Flatley
+  - Valgerdur Steinthorsdottir
+  - Marc Vaudel
+  - Julius Juodakis
+  - Jing Chen
+  - Triin Laisk
+  - Abigail L. LaBella
+  - David Westergaard
+  - Jonas Bacelis
+  - Ben Brumpton
+  - Line Skotte
+  - Maria C. Borges
+  - "\xD8yvind Helgeland"
+  - Anubha Mahajan
+  - Matthias Wielscher
+  - Frederick Lin
+  - Catherine Briggs
+  - Carol A. Wang
+  - Gunn-Helen Moen
+  - Robin N. Beaumont
+  - Jonathan P. Bradfield
+  - Abin Abraham
+  - Gudmar Thorleifsson
+  - Maiken E. Gabrielsen
+  - Sisse R. Ostrowski
+  - Dominika Modzelewska
+  - Ellen A. Nohr
+  - Elina Hypponen
+  - Amit Srivastava
+  - Octavious Talbot
+  - Catherine Allard
+  - Scott M. Williams
+  - Ramkumar Menon
+  - Beverley M. Shields
+  - Gardar Sveinbjornsson
+  - Huan Xu
+  - Mads Melbye
+  - William Lowe
+  - Luigi Bouchard
+  - Emily Oken
+  - Ole B. Pedersen
+  - Daniel F. Gudbjartsson
+  - Christian Erikstrup
+  - "Erik S\xF8rensen"
+  - Mark I. McCarthy
+  - Rolv T. Lie
+  - Kari Teramo
+  - Mikko Hallman
+  - Thorhildur Juliusdottir
+  - Hakon Hakonarson
+  - Henrik Ullum
+  - Andrew T. Hattersley
+  - Line Sletner
+  - Mario Merialdi
+  - Sheryl L. Rifas-Shiman
+  - Thora Steingrimsdottir
+  - Denise Scholtens
+  - Christine Power
+  - Jane West
+  - Mette Nyegaard
+  - John A. Capra
+  - Anne H. Skogholt
+  - Per Magnus
+  - Ole A. Andreassen
+  - Unnur Thorsteinsdottir
+  - Struan F. A. Grant
+  - Elisabeth Qvigstad
+  - Craig E. Pennell
+  - Marie-France Hivert
+  - Geoffrey M. Hayes
+  - Marjo-Riitta Jarvelin
+  - Mark I. McCarthy
+  - Deborah A. Lawlor
+  - Henriette S. Nielsen
+  - "Reedik M\xE4gi"
+  - Antonis Rokas
+  - Kristian Hveem
+  - Kari Stefansson
+  - Bjarke Feenstra
+  - "P\xE5l Njolstad"
+  - Louis J. Muglia
+  - Rachel M. Freathy
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Nature Genetics
+  date: '2023-04-01'
+  link: https://doi.org/j426
+  image: https://www.nature.com/articles/s41588-023-01343-9/figures/4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.annepidem.2023.09.004
+  title: Exploring the association of parity and its interaction with history of preterm
+    delivery on gestational duration
+  authors:
+  - Karin Ytterberg
+  - Bo Jacobsson
+  - Christopher Flatley
+  - Julius Juodakis
+  - Staffan Nilsson
+  - "Pol Sol\xE9-Navais"
+  publisher: Annals of Epidemiology
+  date: '2023-11-01'
+  link: https://doi.org/gsrsk7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1047279723001709-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41588-024-01839-y
+  title: Genome-wide association meta-analysis identifies five loci associated with
+    postpartum hemorrhage
+  authors:
+  - David Westergaard
+  - Valgerdur Steinthorsdottir
+  - Lilja Stefansdottir
+  - Palle Duun Rohde
+  - Xiaoping Wu
+  - Frank Geller
+  - Jaakko Tyrmi
+  - Aki S. Havulinna
+  - "Pol Sol\xE9-Navais"
+  - Christopher Flatley
+  - Sisse Rye Ostrowski
+  - Ole Birger Pedersen
+  - Christian Erikstrup
+  - "Erik S\xF8rensen"
+  - Christina Mikkelsen
+  - Mie Topholm Bruun
+  - Bitten Aagaard Jensen
+  - Thorsten Brodersen
+  - Henrik Ullum
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Njolstad"
+  - Astrid Marie Kolte
+  - Lone Krebs
+  - Mette Nyegaard
+  - Thomas Folkmann Hansen
+  - Bjarke Feenstra
+  - Mark Daly
+  - Cecilia M. Lindgren
+  - Gudmar Thorleifsson
+  - Olafur A. Stefansson
+  - Gardar Sveinbjornsson
+  - Daniel F. Gudbjartsson
+  - Unnur Thorsteinsdottir
+  - Karina Banasik
+  - Bo Jacobsson
+  - Triin Laisk
+  - Hannele Laivuori
+  - Kari Stefansson
+  - "S\xF8ren Brunak"
+  - Henriette Svarre Nielsen
+  publisher: Nature Genetics
+  date: '2024-07-22'
+  link: https://doi.org/gt43fv
+  image: https://www.nature.com/articles/s41588-024-01839-y/figures/2
   plugin: sources.py
   file: sources.yaml
