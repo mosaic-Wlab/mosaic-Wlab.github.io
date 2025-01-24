@@ -59,7 +59,7 @@ Our ongoing projects are related to the genetics of pregnancy loss, gestational 
 
 {% capture text %}
 
-We are a team of biologists, engineers, mathematicians and clinicians, and are constantly on the look-out for motivated and talended post-docs and master students. We strive to  
+We are a team of biologists, engineers, mathematicians and clinicians, at different stages of our careers that work together to meet team and individual goals. We are constantly on the look-out for motivated and talended post-docs and master students, and strive to create an scientifically challenging research environment.    
 
 {%
   include button.html
