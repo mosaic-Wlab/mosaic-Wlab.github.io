@@ -3,7 +3,7 @@
 
 # Mosaic's Lab Website
 
-We are an interdisciplinary team - a scientific mosaic - driven by curiosity to answer critical questions of translational value in reproductive and perinatal genetics. By integrating computational biology with large-scale data, we aim to transform reproductive medicine and advance molecular diagnostics of pregnancy loss and perinatal outcomes. We are based at the Wallenberg Laboratory, Institute of Medicine at the University of Gothenburg.
+We are an interdisciplinary team, a scientific mosaic, driven by curiosity to answer critical questions in reproductive and perinatal medicine. By integrating computational biology with large-scale genetic and registry data, we aim to understand the mechanisms behind pregnancy loss and other pregnancy and neonatal outcomes. With a translational angle, our ultimate goal is to transform reproductive genetics and advance molecular diagnostics. We believe in collaborative work and open science to move our collective knowledge forward. We are based at the Wallenberg Laboratory, Institute of Medicine, University of Gothenburg.
 
 {% include section.html %}
 
