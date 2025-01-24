@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Mosaic Lab
 subtitle: Reproductive Genetics and Epidemiology
-description: In the Mosaic Lab we use genetic and register data to explore the mechanisms behind pregnancy loss and other reproductive and pregnancy outcomes. Our vision is to inform clinical practice and improve molecular diagnostics. We are based at the Wallenberg Laboratory, Institute of Medicine at the University of Gothenburg.
+description: We use large-scale genetic and register data to investigate the biological mechanisms and environmental factors behind pregnancy loss and other reproductive and perinatal outcomes. Our vision is to transform our collective knowledge of the fundamental dynamics of early development and improve molecular diagnostics. We are based at the Wallenberg Laboratory, Institute of Medicine at the University of Gothenburg.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
