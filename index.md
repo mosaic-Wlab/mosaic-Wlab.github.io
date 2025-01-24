@@ -1,9 +1,9 @@
 ---
 ---
 
-# psnavais's Website
+# Mosaic's Lab Website
 
-An engaging 1-3 sentence description of your lab.
+We are an interdisciplinary team - a scientific mosaic - driven by curiosity to answer critical questions of translational value in reproductive and perinatal genetics. By integrating computational biology with large-scale data, we aim to transform reproductive medicine and advance molecular diagnostics of pregnancy loss and perinatal outcomes. We are based at the Wallenberg Laboratory, Institute of Medicine at the University of Gothenburg.
 
 {% include section.html %}
 
