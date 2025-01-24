@@ -1,7 +1,7 @@
 ---
 ---
 
-# Mosaic's Lab Website
+# COMPUTATIONAL BIOLOGY AND REPRODUCTIVE GENETICS
 
 We are an interdisciplinary team, a scientific mosaic, driven by curiosity to answer critical questions in reproductive and perinatal medicine. By integrating computational biology with large-scale genetic and registry data, we aim to understand the mechanisms behind pregnancy loss and other pregnancy and neonatal outcomes. With a translational angle, our ultimate goal is to transform reproductive genetics and advance molecular diagnostics. We believe in collaborative work and open science to move our collective knowledge forward. We are based at the Wallenberg Laboratory, Institute of Medicine, University of Gothenburg.
 
