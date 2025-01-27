@@ -37,8 +37,8 @@
   tags:
     - project
     
-- title: Committed to open science
-  subtitle: Our code and data (whenever possible) is always publicly available
+- title: Open science
+  subtitle: We are committed to making our code and data (whenever possible) publicly available
   group: featured
   image: images/photo.jpg
   link: https://www.ebi.ac.uk/gwas/publications/39214992
