@@ -7,10 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The best way to know on which projects we are working with is to navigate our recent work. Reach out if you would like to collaborate with us or have any questions!
 
 {% include section.html %}
+
+{%
+  include button.html
+  icon="fa-solid fa-book-open"
+  text="PubMed"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=Sole-Navais+P%5BAuthor%5D&sort=date"
+%}
+{%
+  include button.html
+  icon="fa-brands fa-google"
+  text="Google Scholar"
+  link="https://scholar.google.com/citations?user=RE-UjCYAAAAJ&hl"
+%}
 
 ## Highlighted
 
