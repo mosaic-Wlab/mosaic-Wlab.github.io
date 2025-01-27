@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Fetal genetics of pregnancy loss
+  subtitle: DNA variation and risk of miscarriage
+  group: featured
+  image: images/photo.jpg
+#  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+
+- title: Registry-based studies
+  subtitle: Epidemiology
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We use large pedigrees in combination with classic epidemiological study designs (within-family, postbirth, etc) to tease appart sources of variation in human reproduction and pregnancy traits. 
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+
+- title: Genetic prediction of gestational duration
+  subtitle: Polygenic score
+  image: images/photo.jpg
+  link: https://www.pgscatalog.org/publication/PGP000383/
+  description: We develop predictive tools for different traits and make these tools openly available to the community.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Genetic conflicts of pregnancy
+  subtitle: Interplay between maternal and fetal genomes
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: 
+  description: The study of reproductive and pregnancy outcomes is tighly linked to the hypothesis of the conflicts of pregnancy. We use large-scale pedigrees and genetic data to provide evidence in this area.  
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+    
+- title: Committed to open science
+  subtitle: Our code and data (whenever possible) is always publicly available
+  group: featured
+  image: images/photo.jpg
+  link: https://www.ebi.ac.uk/gwas/publications/39214992
+  description: Here we conducted a genome-wide association study of neonatal jaundice and made all results readily available before paper acceptance.  
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
