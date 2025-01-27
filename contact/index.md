@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are physically located at the [Wallenberg Laboratory](https://www.gu.se/en/wlab) in the beautiful city of Gothenbrug, Sweden.
+We are physically located at the (Wallenberg Laboratory)[https://www.gu.se/en/wlab] in the beautiful city of Gothenbrug, Sweden.
 
 {%
   include button.html
