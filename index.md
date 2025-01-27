@@ -11,7 +11,7 @@ We are an interdisciplinary team, a scientific mosaic, driven by curiosity to an
 
 {% capture text %}
 
-At Pol's group we try to answer some of the following questions: How does genetic variation affect traits that are crucial for human development and survival? How do the maternal and fetal genomes as well as their interplay, shape these traits? What are the cellular consequences in terms of molecular pathways and mechanisms involved? Why is genetic variation affecting fitness traits passed down through inheritance? Adressing these questions will provide us with enhanced knowledge on the mechanisms behind these traits and, potentially, develop improved diagnostic tools and treatments. We tackle these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
+At Pol's group we try to answer some of the following questions: How does genetic variation affect traits that are crucial for human development and survival? How does the interplay between the maternal and fetal genomes shape these traits? What are the cellular consequences in terms of molecular pathways and mechanisms involved? Why is genetic variation affecting fitness traits passed down through inheritance? Adressing these questions will provide us with enhanced knowledge on the mechanisms behind these traits and, potentially, develop improved diagnostic tools and treatments. We tackle these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
 
 {%
   include button.html
