@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
 #  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We will study the genetic basis of miscarriage in the fetus beyond chromosomal abnormalities.
   repo: greenelab/lab-website-template
   tags:
     - project
@@ -46,3 +46,22 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
+
+- title: Nordic Collaboration for Women and Reproductive Health
+  subtitle: Accelerating research in women's health
+  image: images/photo.jpg
+  link: https://ncwrh.github.io/
+  description: We are co-chairs of the NCWRH.  
+  repo: greenelab/lab-website-template
+  tags:
+    - project
+
+
+- title: Early Growth Genetics Consortium
+  subtitle: Genetics of pregnancy and growth traits
+  image: images/photo.jpg
+  link: http://egg-consortium.org/
+  description: We are member of the EGG and EAGLE Consortia.    
+  repo: greenelab/lab-website-template
+  tags:
+    - project
