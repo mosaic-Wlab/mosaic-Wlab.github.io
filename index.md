@@ -34,7 +34,7 @@ At Pol's group we try to answer some of the following questions: How does geneti
 
 {% capture text %}
 
-Our ongoing projects are related to the genetics of pregnancy loss, gestational duration, and other reproductive traits. We have established a robust pipeline for distinguishing fetal from maternal effects, which allows us to integrate our discoveries with regulatory and epigenetic data from relevant tissues and cell types. We are part of several large international genetic consortia, such as the Nordic Collaboration for Women's Health, the Early Growth Genetics Consortium and the EAGLE Consortium. Additionally, we work with rich register data from Sweden to inform our genetic studies by modelling large pedigrees (up to four generations) and detailed phenotypic information from millions of individuals.  
+Our ongoing projects are related to the genetics of pregnancy loss, gestational duration, and other reproductive traits. We have established a robust pipeline for distinguishing fetal from maternal effects, which allows us to integrate our discoveries with regulatory and epigenetic data from relevant tissues and cell types. Most of our work is largely collaborative, and we are part of several large international genetic consortia, such as the Nordic Collaboration for Women's Health, the Early Growth Genetics Consortium and the EAGLE Consortium. Additionally, we work with rich register data from Sweden to inform our genetic studies by modelling large pedigrees (up to four generations) and detailed phenotypic information from millions of individuals.  
 
 {%
   include button.html
