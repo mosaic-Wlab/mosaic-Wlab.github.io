@@ -11,7 +11,7 @@ We are an interdisciplinary team, a scientific mosaic, driven by curiosity to an
 
 {% capture text %}
 
-We try to answer the following questions among others: How does genetic variation affect traits that are crucial for human development and survival? How does the interplay between the maternal and fetal genomes shape these traits? What are the cellular consequences in terms of molecular pathways and mechanisms involved? Why is genetic variation affecting fitness traits passed down through inheritance? Adressing these questions will provide us with enhanced knowledge on the mechanisms behind these traits and, potentially, develop improved diagnostic tools and treatments. We tackle these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
+Our research group investigates the fundamental mechanisms of human development through the lens of genetic variation. We focus on the following key questions: 1) How does genetic variation affect traits that are essential for human development and survival? 2) How does the interplay between the maternal and fetal genomes shape these traits? 3) How do these genetic effects translate into molecular pathways and cellular mechanisms? 4) What forces allow genetic variation affecting fitness traits tbe passed down through inheritance? Adressing these questions will provide us with enhanced knowledge for human health, potentially leading to improved diagnostics and therapeutic interventions for pregnancy complications. We tackle these questions by integrating computational biology, experimentation, genomics, and large-scale data analysis.  
 
 {%
   include button.html
@@ -34,7 +34,7 @@ We try to answer the following questions among others: How does genetic variatio
 
 {% capture text %}
 
-Our team works on projects related to the genetics of pregnancy loss, gestational duration, and other reproductive and pregnancy traits. We have established a robust pipeline for distinguishing fetal from maternal effects, which allows us to integrate our discoveries with regulatory and epigenetic data from relevant tissues and cell types. Most of our work is largely collaborative, and we are part of several large international genetic consortia, such as the Nordic Collaboration for Women's Health, the Early Growth Genetics Consortium and the EAGLE Consortium. Additionally, we work with rich register data from Sweden to inform our genetic studies by modelling large pedigrees (up to four generations) and detailed phenotypic information from millions of individuals.  
+Our team works on projects related to the genetics of pregnancy loss, gestational duration, and other reproductive and pregnancy traits. We have established a robust pipeline for distinguishing fetal from maternal effects, which allows us to integrate our discoveries with regulatory and epigenetic data from relevant tissues and cell types. Most of our work is largely collaborative, and we are part of several large international genetic consortia, such as the Nordic Collaboration for Women's Health, the Early Growth Genetics Consortium and the EAGLE Consortium. Additionally, we model large pedigrees (spanning up to four generations) and detailed phenotypic information from millions of individuals from Swedish register data to inform our genetic studies.  
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Our team works on projects related to the genetics of pregnancy loss, gestationa
 
 {% capture text %}
 
-We are a team of biologists, engineers, mathematicians and clinicians, at different stages of our careers that work together to meet team and individual goals. We are constantly on the look-out for motivated and talended post-docs and master students, and strive to create a scientifically challenging research environment.    
+We are a team of biologists, engineers, mathematicians and clinicians, at different stages of our careers that work together to meet team and individual goals. We are constantly on the look-out for motivated and talended post-docs and master students who share our passion for understanding the genetic basis of human development.   
 
 {%
   include button.html
