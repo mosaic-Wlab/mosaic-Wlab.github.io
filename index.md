@@ -26,7 +26,7 @@ Our research group investigates the fundamental mechanisms of human development 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/writing.png"
   link="research"
   title="Our research"
   text=text
@@ -49,7 +49,7 @@ Our team works on projects related to the genetics of pregnancy loss, gestationa
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/team.png"
   link="projects"
   title="Ongoing projects"
   flip=true
