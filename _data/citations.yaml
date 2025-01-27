@@ -93,7 +93,7 @@
   date: '2023-04-01'
   link: https://doi.org/j426
   type: paper
-  image: https://www.nature.com/articles/s41588-023-01343-9/figures/4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01343-9/MediaObjects/41588_2023_1343_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.annepidem.2023.09.004
@@ -162,5 +162,40 @@
   date: '2024-07-22'
   link: https://doi.org/gt43fv
   type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-024-01839-y/MediaObjects/41588_2024_1839_Fig2_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-024-51947-w
+  title: Genome-wide analyses of neonatal jaundice reveal a marked departure from
+    adult bilirubin metabolism
+  authors:
+  - "Pol Sol\xE9-Navais"
+  - Julius Juodakis
+  - Karin Ytterberg
+  - Xiaoping Wu
+  - Jonathan P. Bradfield
+  - Marc Vaudel
+  - Abigail L. LaBella
+  - "\xD8yvind Helgeland"
+  - Christopher Flatley
+  - Frank Geller
+  - Moshe Finel
+  - Mengqi Zhao
+  - Philip Lazarus
+  - Hakon Hakonarson
+  - Per Magnus
+  - Ole A. Andreassen
+  - "P\xE5l R. Nj\xF8lstad"
+  - Struan F. A. Grant
+  - Bjarke Feenstra
+  - Louis J. Muglia
+  - Stefan Johansson
+  - Ge Zhang
+  - Bo Jacobsson
+  publisher: Nature Communications
+  date: '2024-08-30'
+  link: https://doi.org/gvn7rf
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-51947-w/MediaObjects/41467_2024_51947_Fig1_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
