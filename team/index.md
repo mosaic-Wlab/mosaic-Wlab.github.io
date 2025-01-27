@@ -31,3 +31,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+## Funding
+
+{% capture content %}
+
+[![Swedish Society for Medical Research - Svenska Sällskapet för Medicinsk Forskning](/images/team/ssmf-logo-head.svg)](https://www.ssmf.se/)  
+
+[![Swedish Research Council - Vetenskapsrådet](/images/team/logotyp_vetenskapsrådet_liggande_sv.svg)](https://www.vr.se/)  
+
+[![ALF-Agreement concerning research and education of doctors](/images/team/alf.png)](https://www.alfvastragotaland.se/)  
+
+
+
