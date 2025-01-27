@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are physically located at the (Wallenberg Laboratory)[https://www.gu.se/en/wlab] in the beautiful city of Gothenbrug, Sweden.
+We are physically located at the [Wallenberg Laboratory](https://www.gu.se/en/wlab) in the beautiful city of Gothenbrug, Sweden.
 
 {%
   include button.html
@@ -25,7 +25,7 @@ We are physically located at the (Wallenberg Laboratory)[https://www.gu.se/en/wl
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://www.google.com/maps/place/Brown+Passage+16+Parking/@57.6845086,11.9553609,16z/data=!4m10!1m2!2m1!1swallenberg+laboratory!3m6!1s0x464ff31011ece82f:0x9436004d4b23866!8m2!3d57.6811852!4d11.9609134!15sChV3YWxsZW5iZXJnIGxhYm9yYXRvcnmSAQtwYXJraW5nX2xvdOABAA!16s%2Fg%2F11f2gsjpwj?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D)"
+  link="https://www.google.com/maps/place/Bruna+str%C3%A5ket+16,+413+45+G%C3%B6teborg/@57.6815364,11.958416,17z/data=!3m1!4b1!4m6!3m5!1s0x464ff3101270a299:0x5873060b6d10602e!8m2!3d57.6815364!4d11.9609909!16s%2Fg%2F11c239c3yt?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
