@@ -51,7 +51,7 @@ Our ongoing projects are related to the genetics of pregnancy loss, gestational 
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Ongoing Projects"
   flip=true
   style="bare"
   text=text
@@ -76,6 +76,6 @@ We are a team of biologists, engineers, mathematicians and clinicians, at differ
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Meet us"
   text=text
 %}
