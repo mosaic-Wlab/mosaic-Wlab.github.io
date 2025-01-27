@@ -2,8 +2,7 @@
   subtitle: DNA variation and risk of miscarriage
   group: featured
   image: images/photo.jpg
-#  link: https://github.com/
-  description: We will study the genetic basis of miscarriage in the fetus beyond chromosomal abnormalities.
+  description: Less than half of all conceptions survive until birth. Here we will study how genetic variation in the fetus affects the risk of miscarriage beyond aneuploidies.
   repo: greenelab/lab-website-template
   tags:
     - project
@@ -12,8 +11,7 @@
   subtitle: Epidemiology
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: We use large pedigrees in combination with classic epidemiological study designs (within-family, postbirth, etc) to tease appart sources of variation in human reproduction and pregnancy traits. 
+  description: We use large pedigrees in combination with classic epidemiological study designs (within-family, postbirth, etc) to tease appart shared and non-shared sources of variation in human reproduction and pregnancy traits. 
   repo: greenelab/lab-website-template
   tags:
     - project
