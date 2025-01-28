@@ -15,8 +15,8 @@ Our research group investigates the fundamental mechanisms of human development 
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="projects"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,7 +27,7 @@ Our research group investigates the fundamental mechanisms of human development 
 {%
   include feature.html
   image="images/home/writing.png"
-  link="research"
+  link="projects"
   title="Our research"
   text=text
 %}
@@ -38,8 +38,8 @@ Our team works on projects related to the genetics of pregnancy loss, gestationa
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Our team works on projects related to the genetics of pregnancy loss, gestationa
 {%
   include feature.html
   image="images/home/team.png"
-  link="projects"
-  title="Ongoing projects"
+  link="research"
+  title="Publications"
   flip=true
   style="bare"
   text=text
