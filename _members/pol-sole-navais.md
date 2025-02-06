@@ -1,6 +1,6 @@
 ---
 name: Pol Solé Navais
-image: images/photo.jpg
+image: images/team/pol-sole-navais.jpg
 role: principal-investigator
 affiliation: University of Gothenburg
 aliases:
