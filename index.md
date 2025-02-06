@@ -74,7 +74,7 @@ We are a team of biologists, engineers, mathematicians and clinicians, at differ
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/muppets_team.jpg"
   link="team"
   title="Meet us"
   text=text
