@@ -31,7 +31,7 @@ We want to push the frontier of data science and train the next generation of da
 
 {% capture content %}
 {% include figure.html image="images/team/ssmf-logo-head.png" caption="Swedish Society for Medical Research - Svenska Sällskapet för Medicinsk Forskning" link="https://www.ssmf.se/" width="100%" %}
-{% include figure.html image="images/team/logotyp_vetenskapsrådet_liggande_sv.png" caption="Swedish Research Council" link="https://www.vr.se/" width="100%" %}
+{% include figure.html image="images/team/logotyp_VR.png" caption="Swedish Research Council" link="https://www.vr.se/" width="100%" %}
 {% include figure.html image="images/team/ssmf-logo-head.png" caption="ALF-Agreement" link="https://www.alfvastragotaland.se/" width="100%" %}
 
 
