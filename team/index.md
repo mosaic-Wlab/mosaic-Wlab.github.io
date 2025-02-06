@@ -9,9 +9,8 @@ nav:
 
 Our team is composed of a mosaic of scientists, each of which brings complementary expertise and point of view. Our group strives to create a safe space for all members, no matter the position or role. We advocate for freedom of expression (avoiding interpersonal conflicts) and open communication where members feel confident to offer their ideas and questions. To benefit from our different backgrounds, everyone must feel heard and involved in the discussions. 
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}  
-
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}  
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html dark=true %}
 
