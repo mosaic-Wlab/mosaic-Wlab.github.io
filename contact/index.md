@@ -34,8 +34,8 @@ We are physically located at the [Wallenberg Laboratory](https://www.gu.se/en/wl
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/gothenburg1.jpg"
+  caption="Gothenburg city"
 %}
 
 {% endcapture %}
@@ -44,32 +44,11 @@ We are physically located at the [Wallenberg Laboratory](https://www.gu.se/en/wl
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/gothenburg2.jpg"
+  caption="Gothenburg's archipielago"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
