@@ -15,7 +15,6 @@ We try to keep the list of open positions updated, but we might have additional 
 
 ### Open positions
 
-If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.  
 
 {% include list.html component="card" data="positions" filter="group == 'featured'" %}
 
