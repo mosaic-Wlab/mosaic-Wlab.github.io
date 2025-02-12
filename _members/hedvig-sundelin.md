@@ -1,6 +1,6 @@
 ---
 name: Hedvig Sundelin
-image: images/photo.jpg
+image: images/team/hedvig-sundelin.jpg
 role: phd
 links:
   github: hedvigsun
