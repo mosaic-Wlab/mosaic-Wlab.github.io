@@ -1,6 +1,6 @@
 ---
 name: Felix Evers
-image: images/photo.jpg
+image: images/felix-evers.jpg
 role: phd
 links:
 ---
