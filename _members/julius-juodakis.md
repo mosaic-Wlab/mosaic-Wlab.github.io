@@ -1,7 +1,9 @@
 ---
 name: Julius Juodakis
-image: images/photo.jpg
-description: Statistics and Mol Bio
+image: images/team/julius-juodakis.jpg
+description: Stats and Mol Bio
 role: programmer
+links:
+  github: jjuod 
 ---
 

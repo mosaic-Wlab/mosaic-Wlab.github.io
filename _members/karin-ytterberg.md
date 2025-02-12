@@ -1,8 +1,7 @@
 ---
 name: Karin Ytterberg
-image: images/photo.jpg
+image: images/team/karin-ytterberg.jpg
 role: phd
-group: alum
 links:
   github: ykarin97
 ---

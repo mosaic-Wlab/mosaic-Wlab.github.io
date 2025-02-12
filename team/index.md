@@ -14,8 +14,9 @@ Our team is composed of a mosaic of scientists, each of which brings complementa
 
 {% include section.html dark=true %}
 
-Our work is largely collaborative, and we work with a wide range of groups from around the world. We're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
+Our work is largely collaborative, and we work with a wide range of groups from around the world. We're always on the lookout for new and unique perspectives. One of our closest collaborators is Bo Jacobsson, at the University of Gothenburg.  
+
+We want to push the frontier of reproductive genetics and train the next generation of computational biologists.
 
 {%
   include button.html
