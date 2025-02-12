@@ -1,1 +1,1 @@
-Sitemap: https://mosaic-wlab.github.io/mosaic-lab/sitemap.xml
+Sitemap: https://mosaic-wlab.github.io/sitemap.xml
